@@ -1,0 +1,39 @@
+/* Styles for Demo1 component */
+nav {
+    background-color: #71b2de;
+    padding: 200px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 450px;
+    font-size: 30px;
+    font-style: oblique;
+  }
+  
+  li:last-child {
+    margin-right: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: lightblue;
+  }
+
+  /* Demo1.css */
+
+/* Demo1.css */
+
+/* Container styling */

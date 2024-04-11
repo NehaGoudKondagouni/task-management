@@ -1,0 +1,33 @@
+.employee-task-information {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .custom-form {
+    margin-bottom: 20px;
+  }
+  
+  .custom-form label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  .custom-form input[type='text'],
+  .custom-form select {
+    padding: 8px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  .custom-form button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .custom-form button:hover {
+    background-color: #45a049;
+  }  

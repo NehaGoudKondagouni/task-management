@@ -1,0 +1,63 @@
+/* Footer.css */
+
+.footer-container {
+    background-color: #333;
+    color:white;
+    display: flex; /* Center children horizontally */
+    position: fixed; /* Fixed positioning */
+    bottom: 0; /* Stick to the bottom */
+    width: 100%; /* Full width */
+    transition: padding 0.5s ease; /* Add smooth transition for padding changes */
+    padding-top: 200px;
+    margin-top: 500px;
+    margin-left: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid red;
+    font-size: 2px;
+  }
+  
+  .contact-info {
+    font-size: small;/* Add some space between contact info and social icons */
+  }
+  p{
+    font-size: 10px;
+    font-weight: 100px;
+  }
+  h4{
+    font-size: 10px;
+  }
+  li{
+    font-size: 10px;
+  }
+  .lists{
+    padding-left: 47px;
+    margin-top: 25px;
+  }
+  
+  .social-icons {
+    display: flex;
+    margin-left: auto; /* Move social icons to the right */
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+    margin-top: 25px;
+  }
+  
+  .social-icons img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .Email {
+    width: 2px;
+    height: 2px;
+  }
+  
+  .Task {
+    width: 450px;
+    margin-top: 25px;
+    color:bisque;
+    margin-left: 15px;
+  }
